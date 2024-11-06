@@ -1,2 +1,4 @@
-streamlit
+streamlit==1.39.0
+pandas==2.0.3
 google-generativeai
+grpcio-status==1.67.1
